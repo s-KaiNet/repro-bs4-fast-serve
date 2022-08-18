@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sourcemap-client-side-solution",
+    "id": "cb56ccfa-3b92-47d6-b86f-7c7047624f66",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "sourcemap description"
+      },
+      "longDescription": {
+        "default": "sourcemap description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "sourcemap Feature",
+        "description": "The feature that activates elements of the sourcemap solution.",
+        "id": "10fa8ddb-7737-4404-b7f1-d903c9dcfc65",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/sourcemap.sppkg"
+  }
+}

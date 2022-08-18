@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "sourcemap",
+    "libraryId": "cb56ccfa-3b92-47d6-b86f-7c7047624f66",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "sourcemap",
+    "solutionShortDescription": "sourcemap description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
